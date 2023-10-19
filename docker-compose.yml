@@ -7,8 +7,8 @@ services:
     ports:
       - 3310:3306
     volumes:
-      - ./db/data:/var/lib/mysql
-      - ./db/conf:/etc/mysql/conf.d
+      - ../Database/onelineshop_db/data:/var/lib/mysql
+      - ../Database/onelineshop_db/conf:/etc/mysql/conf.d
     environment:
       - MYSQL_USER=nhanpq
       - MYSQL_PASSWORD=abc123
