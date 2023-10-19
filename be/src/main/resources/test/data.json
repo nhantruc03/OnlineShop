@@ -1,0 +1,21 @@
+[
+  {
+    "imdbId": "tt3915174",
+    "title": "Puss in Boots: The Last Wish",
+    "releaseDate": "2022-12-21",
+    "trailerLink": "https://www.youtube.com/watch?v=tHb7WlgyaUc",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/1NqwE6LP9IEdOZ57NCT51ftHtWT.jpg",
+    "backDrops": [
+      "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
+      "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
+    ],
+    "reviews":[]
+  }
+]
